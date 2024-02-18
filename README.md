@@ -30,7 +30,7 @@ me({"name": tf.constant(["Diana"]), "location": tf.constant(["Bulgaria"])})
 Thanks for looking at what I've written! 👀
 
 If you really need to write back: 
-📫 dtuleva@students.softuni.bg
+📫 diana.tuleva@outlook.com
 
 
 
