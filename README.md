@@ -27,7 +27,7 @@ me = HumanModel()
 me({"name": tf.constant(["Diana"]), "location": tf.constant(["Bulgaria"])})
 ```
 
-Thanks for looking at what I've written! 👀
+Thanks for l👀king at what I've written! 
 
 If you really need to write back: 
 📫 diana.tuleva@outlook.com
